@@ -1,0 +1,16 @@
+#error {
+    background-color: rgb(234, 240, 240);
+    color: red;
+    display: none;
+}
+#result {
+    background-color: rgb(234, 240, 240);   
+    width: 200px;
+}
+#cal {
+    display: none;
+}
+#checkbox {
+    background-color: #eee;
+    width: 200px;
+}

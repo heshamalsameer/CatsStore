@@ -1,0 +1,30 @@
+.icon {
+    font-size: 24px;
+    color: #000;
+}
+.cart-icon span {
+    position: absolute;
+    top: 0px;
+    right: -8px;
+}
+
+body {
+    background-color: #f3a81d;
+}
+.pageHome{
+    position: absolute;
+    text-align: center;
+}
+.pageHome p {
+    text-align: center;
+    font-size: 20px;
+}
+.card:hover img {
+    transform: scale(0.99);
+    transition: 0.3s;
+}
+.card:hover {
+    background-color: #f7f4f4;
+    transition: 0.3s;
+}
+

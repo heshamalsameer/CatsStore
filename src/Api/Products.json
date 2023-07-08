@@ -1,0 +1,34 @@
+[
+    {
+        "id" :0,
+        "name": "White Cat",
+        "price":100,
+        "image":"/CatsImage/1.jpg",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto autem earum mollitia sequi ipsa quisquam eaque, aspernatur ab accusantium, magni dolorem! Ab saepe reiciendis omnis commodi minima, nisi dicta a."
+    },
+    
+    {
+        "id" :1,
+        "name": "Black Cat",
+        "price":1000,
+        "image":"/CatsImage/2.jpg",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto autem earum mollitia sequi ipsa quisquam eaque, aspernatur ab accusantium, magni dolorem! Ab saepe reiciendis omnis commodi minima, nisi dicta a."
+    },
+    
+    {
+        "id" :2,
+        "name": "cute cat",
+        "price":2000,
+        "image":"/CatsImage/3.jpg",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto autem earum mollitia sequi ipsa quisquam eaque, aspernatur ab accusantium, magni dolorem! Ab saepe reiciendis omnis commodi minima, nisi dicta a."
+    },
+    
+    {
+        "id" :3,
+        "name": "Angry Cat",
+        "price":150,
+        "image":"/CatsImage/4.jpg",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto autem earum mollitia sequi ipsa quisquam eaque, aspernatur ab accusantium, magni dolorem! Ab saepe reiciendis omnis commodi minima, nisi dicta a."
+    }
+    
+]
